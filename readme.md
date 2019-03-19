@@ -13,4 +13,17 @@ In the another se
 
 ![](img/Vinylcutter.jpg)
 ![](img/3dcutterok.jpg)
-![](img/3dcutteroktry.jpg)
+Was able to upload three images and the steps are
+Get the pic and resize it to 800 and 600 and save with the meaningfull name on the local folder
+In the fabzero at the visual studio code editor creat a folder called as img 
+please note to keep in lower case to avoid the confusion and conflict at the window based
+Now cut and paste the image from the local folder to the newly created folder om the VS editor
+In the vS editor page type the syntax ![](the folder name on the editor here img/the file name of the pic stored on the local folder)
+After this go to the symbol share where you will see a count of the image/file selected click it
+Then a new symbol called correct is visible click it
+Then popup will some asked to save all with three other option
+The again save
+Give the comment in the VS editor
+Enter
+Check the update on the github profile and see the updates
+
