@@ -10,3 +10,5 @@ WE have seen a 3d printer which uses the sun light for cutting the resin at very
 Another 3d printer with non resign and have two different cleaning device machine the backet or the holder.
 There are also 2D printer 
 In the another se
+
+![](img/Vinylcutter.jpg)
