@@ -24,6 +24,7 @@ Then a new symbol called correct is visible click it
 Then popup will some asked to save all with three other option
 The again save
 Give the comment in the VS editor
-Enter
+Enter 
 Check the update on the github profile and see the updates
 
+![]{img/handonvinylcutter1.jpg}
