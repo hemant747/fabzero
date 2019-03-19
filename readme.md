@@ -7,3 +7,6 @@ We have seen 3d printer for the electronic PCB cutting along with desoldering ma
 like on ,off, cool and it should not be switched off directly.
 One soldering machine along with a devices which will having the lead filter to protect from inhalling the harmfull fumes.
 WE have seen a 3d printer which uses the sun light for cutting the resin at very fine size cutting .
+Another 3d printer with non resign and have two different cleaning device machine the backet or the holder.
+There are also 2D printer 
+In the another se
