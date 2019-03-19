@@ -13,3 +13,4 @@ In the another se
 
 ![](img/Vinylcutter.jpg)
 ![](img/3dcutterok.jpg)
+![](img/3dcutteroktry.jpg)
