@@ -1,4 +1,14 @@
-# Hemant Rawade My first day training experience 18/3/19
+# Hemant Rawade
+# About Fablab training program known as Fabzero .
+* This programs are not a traditional but a distributed education system with mentors instead of teachers. It works on the basic principle that is Learn + make + share. Based in the Scientific method. That means the student learns and have handson and documents their experience through a personal portfolio.
+* It has the three level of assessment that self assessment then local evaluation and finaly the global evaluation prosess.
+
+# Training Experience 
+
+* The pre-requsite  open source code software were installed for the documentation like the Visual Studio code and to interface with various which come without the GUI are all supported with CLI ( Command line interface) . So the software like the Git Bash was installed, also Inkspace and Utimaker Cura ,Kicad etc for the designing and printing of the projects purpose.
+
+# Visit to the Fablab setup
+
 We visited the Fab lab setup and observred that various fabrication machine were installed in the lab
 First we have seen the Laser cutter machine which using the class 4 laser light.
 The machine uses various material for cutting first the rolls of copper , 
