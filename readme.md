@@ -8,13 +8,38 @@ I am working in STPI as Asst Director and had worked in Datacom Group and handle
 # About Fablab training program known as FABZERO.
 
 Being given the apportunity to getting the Fab-Lab Pre-Acadmey program called as Fabzero. This training was scheduled from 18/3/2019 to 5/4/2019 at STPI Bhubneshwar .
-This Pre-Acadmey program was launched by Shri Onkar Rai , Director General STPI through VC from STPI HQ and addressed all participaints and Fablab as one of the efforts to make our nation a " Product Nation".
+This Pre-Acadmey program was launched by Shri Onkar Rai Sir, Director General STPI through VC from STPI HQ and addressed all participaints that how Fablab is one of the efforts apart many other initiatives taken by STPI to make our nation a " Product Nation".
 * This programs are not a traditional but a distributed education system with mentors instead of teachers. It works on the basic principle that is Learn + make + share. Based in the Scientific method. That means the student learns and have handson and documents their experience through a personal portfolio.
 * It has the three level of assessment that self assessment then local evaluation and finaly the global evaluation prosess.
+* My mentor is Mr. Francisco & Mr. Sibu 
 
 # Training Experience 
+* Our Mentor Mr. Francusco introduced about the Fablab foundation USA and Fabzero program and further asked us to installed various application as given below to operate through the Window bases operating system. But share that its prefered that the Linux based operating system are more system freedly and relaible than other operationg system. 
 
-* The pre-requsite  open source code software were installed for the documentation like the Visual Studio code and to interface with various which come without the GUI are all supported with CLI ( Command line interface) . So the software like the Git Bash was installed, also Inkspace and Utimaker Cura ,Kicad etc for the designing and printing of the projects purpose.
+* Documenting the experience on online repository at Github 
+
+-Open "New Window" in visual Studio Code
+--Copy the clone Address from Github
+---This is the command to see the clone address at Github "Control + Shift + P"
+---Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
+----Imstall windows GIT and then GIT Bash will also be installed and now open GIT Bash.
+
+ 
+HEMANT@LAPTOP-338HDE0D MINGW64 ~
+$ git config --global user.name Hemant747
+
+HEMANT@LAPTOP-338HDE0D MINGW64 ~
+$ git config --global user.email 
+
+HEMANT@LAPTOP-338HDE0D MINGW64 ~
+$ git config --global user.email
+
+* Fallowing other softwares were also installed as given below :-
+1.Code Spell checker in Visual Studio Editor ( for documentation & repository update)
+2.Inkscape. (2D drawing)
+3.Ultimate Cura. (3D drawing )
+4.Kicad ( Electronic PCB designing)
+5.Freecad.( 3D drawing)
 
 # First Visit to the Fablab setup #
 
