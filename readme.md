@@ -3,7 +3,12 @@
 I am working in STPI as Asst Director and had worked in Datacom Group and handle the installation of (IPLC) International Private Lease Circuits satelite links on C-Band and V- Sat, Fibermux like Mainstreet,Point to multipoint radio links, NOC instalation and shifting of ( Network Operation Center) & Radio repeater etc. Have worked as Management Representative for ISO 9001:2000 acceradion and is certified interal auditor for ISO 9001:2000.
 
 ![](img/Profilepic.jpg)
-# About Fablab training program known as Fabzero .
+
+
+# About Fablab training program known as FABZERO.
+
+Being given the apportunity to getting the Fab-Lab Pre-Acadmey program called as Fabzero. This training was scheduled from 18/3/2019 to 5/4/2019 at STPI Bhubneshwar .
+This Pre-Acadmey program was launched by Shri Onkar Rai , Director General STPI through VC from STPI HQ and addressed all participaints and Fablab as one of the efforts to make our nation a " Product Nation".
 * This programs are not a traditional but a distributed education system with mentors instead of teachers. It works on the basic principle that is Learn + make + share. Based in the Scientific method. That means the student learns and have handson and documents their experience through a personal portfolio.
 * It has the three level of assessment that self assessment then local evaluation and finaly the global evaluation prosess.
 
