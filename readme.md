@@ -29,20 +29,24 @@ This Pre-Acadmey program was launched by Shri Onkar Rai Sir, Director General ST
 
  
 HEMANT@LAPTOP-338HDE0D MINGW64 ~
+
 $ git config --global user.name Hemant747
 
 HEMANT@LAPTOP-338HDE0D MINGW64 ~
+
 $ git config --global user.email 
 
 HEMANT@LAPTOP-338HDE0D MINGW64 ~
+
 $ git config --global user.email
 
 * Fallowing other softwares were also installed as given below :-
-1.Code Spell checker in Visual Studio Editor ( for documentation & repository update)
-2.Inkscape. (2D drawing)
-3.Ultimate Cura. (3D drawing )
-4.Kicad ( Electronic PCB designing)
-5.Freecad.( 3D drawing)
+*Code Spell checker in Visual Studio Editor ( for docum*entation & repository update)
+*Inkscape. (2D drawing)
+*Ultimate Cura. (3D drawing )
+*Kicad ( Electronic PCB designing)
+*Freecad.( 3D drawing)
+*Sindoh 3d Wox printer
 
 # First Visit to the Fablab setup #
 
