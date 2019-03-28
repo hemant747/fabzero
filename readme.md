@@ -46,13 +46,19 @@ HEMANT@LAPTOP-338HDE0D MINGW64 ~
 
 $ git config --global user.email
 
-* Fallowing other softwares were also installed as given below :-
-*Code Spell checker in Visual Studio Editor ( for docum*entation & repository update)
-*Inkscape. (2D drawing)
-*Ultimate Cura. (3D drawing )
-*Kicad ( Electronic PCB designing)
-*Freecad.( 3D drawing)
-*Sindoh 3d Wox printer
+* Fallowing other softwares were also installed as given below :- 
+
+Code Spell checker in Visual Studio Editor ( for docum*entation & repository update) 
+
+Inkscape. (2D drawing) 
+
+Ultimate Cura. (3D drawing ) 
+
+Kicad ( Electronic PCB designing) 
+
+Freecad.( 3D drawing) 
+
+Sindoh 3d Wox printer
 
 # First Visit to the Fablab setup #
 
