@@ -74,3 +74,5 @@ There are also 2D printer
 ![](img/Vinylcutter.jpg)
 ![](img/3dcutterok.jpg)
 ![](img/Lasercutter.jpg)
+![](img/Formlab.jpg)
+![](img/SRM20.jpg)
