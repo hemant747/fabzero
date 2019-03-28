@@ -23,8 +23,12 @@ This Pre-Acadmey program was launched by Shri Onkar Rai Sir, Director General ST
 
 -Open "New Window" in visual Studio Code
 --Copy the clone Address from Github
----This is the command to see the clone address at Github "Control + Shift + P"
----Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
+
+
+---This is the command to see the clone address at Github "Control + Shift + P" 
+
+---Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone" 
+
 ----Imstall windows GIT and then GIT Bash will also be installed and now open GIT Bash.
 
  
