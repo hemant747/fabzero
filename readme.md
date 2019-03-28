@@ -29,7 +29,9 @@ This Pre-Acadmey program was launched by Shri Onkar Rai Sir, Director General ST
 
 ---Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone" 
 
-----Imstall windows GIT and then GIT Bash will also be installed and now open GIT Bash.
+----Imstall windows GIT and then GIT Bash will also be installed and now open GIT Bash. 
+ 
+ * Windons screen view as see in windows
 
  
 HEMANT@LAPTOP-338HDE0D MINGW64 ~
