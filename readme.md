@@ -79,15 +79,31 @@ There are also 2D printer
 ![](img/Vinylcutter.jpg) 
 
 Link to see the  
-[Hands-on details on Vinly cutter ](VinylCutter.md)
+[Hands-on details on Vinly cutter ](VinylCutter.md) 
+ 
 
+
+  
+   
+    
+
+
+# Shopbot 3D printer 3DWOX 
 
 ![](img/3dcutterok.jpg) 
 
+
+
 ![](img/Lasercutter.jpg) 
 
+
+
 ![](img/Formlab.jpg) 
+ 
+
 
 ![](img/SRM20.jpg) 
+
+
 
 ![](img/shopbot1.jpg)
