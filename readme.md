@@ -1,6 +1,6 @@
 # Hemant Rawade
 # About
-I am working in STPI as Asst Director and had worked in Datacom Group and handle the installation of (IPLC) International Private Lease Circuits satelite links on C-Band and V- Sat, Fibermux like Mainstreet,Point to multipoint radio links, NOC instalation and shifting of ( Network Operation Center) & Radio repeater etc. Have worked as Management Representative for ISO 9001:2000 acceradion and is certified interal auditor for ISO 9001:2000.
+I am working in STPI as Asst Director and had worked in Datacom Group and handle the installation of (IPLC) International Private Lease Circuits satelite links on C-Band and V- Sat, Fibermux like Mainstreet,Point to multipoint radio links, NOC installation and shifting of ( Network Operation Center) & Radio repeater etc. Have worked as Management Representative for ISO 9001:2000 acceradion and is certified interal auditor for ISO 9001:2000.
 
 ![](img/Profilepic.jpg)
 
@@ -81,7 +81,6 @@ There are also 2D printer
 Link to see the  
 [Hands-on details on Vinly cutter ](VinylCutter.md)
 
-![ Roland Vinly cutter machine](img/Vinyl Cutter.md)
 
 ![](img/3dcutterok.jpg) 
 
