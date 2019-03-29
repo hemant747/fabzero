@@ -88,7 +88,7 @@ Link to see the
     
 
 
-#  3D printer 3DWOX 
+#  3D printer 3DWOX Sindoh 200
 
 ![](img/3dcutterok.jpg) 
 
