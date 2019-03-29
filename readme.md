@@ -69,10 +69,25 @@ like on ,off, cool and it should not be switched off directly.
 One soldering machine along with a devices which will having the lead filter to protect from inhaling the harmful fumes.
 WE have seen a 3d printer which uses the sun light for cutting the resin at very fine size cutting .
 Another 3d printer with non resign and have two different cleaning device machine the backet or the holder.
-There are also 2D printer 
+There are also 2D printer  
+# The Below List of Machines with handson experience details are provided with seperate link :- 
+ 
+ * The Vinly Cutter Machine 
+ 
 
-![](img/Vinylcutter.jpg)
-![](img/3dcutterok.jpg)
-![](img/Lasercutter.jpg)
-![](img/Formlab.jpg)
-![](img/SRM20.jpg)
+
+![](img/Vinylcutter.jpg) 
+
+Details of handson experience on Vinly Cutter Machine 
+
+![ Roland Vinly cutter machine](img/Vinyl Cutter.md)
+
+![](img/3dcutterok.jpg) 
+
+![](img/Lasercutter.jpg) 
+
+![](img/Formlab.jpg) 
+
+![](img/SRM20.jpg) 
+
+![](img/shopbot1.jpg)
