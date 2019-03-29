@@ -78,7 +78,8 @@ There are also 2D printer
 
 ![](img/Vinylcutter.jpg) 
 
-Details of handson experience on Vinly Cutter Machine 
+Details of handson experience on Vinly Cutter Machine. 
+[Hands-on details on Vinly cutter ](VinylCutter.md)
 
 ![ Roland Vinly cutter machine](img/Vinyl Cutter.md)
 
