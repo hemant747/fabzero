@@ -72,7 +72,7 @@ Another 3d printer with non resign and have two different cleaning device machin
 There are also 2D printer  
 # The Below List of Machines with handson experience details are provided with seperate link :- 
  
- * The Vinly Cutter Machine 
+ # The Vinly Cutter Machine 
  
 
 
@@ -88,7 +88,7 @@ Link to see the
     
 
 
-# Shopbot 3D printer 3DWOX 
+#  3D printer 3DWOX 
 
 ![](img/3dcutterok.jpg) 
 
