@@ -22,7 +22,8 @@ SF Edit 2
 7. Were ever the pins are not used assign a " no connect " symbol for the unused pins of the IC.  
 
 * Annotation or Naming  
-![](img/atona.png)
+![](img/atona.jpg)  
+
 8.Use the default values for the annotation schematic symbol tool and to edit the value on the component move the cursor over the component and press E.And to write a local name use ' Place Net Lable '.  
 
 9.![](img/kicad1.png) 
