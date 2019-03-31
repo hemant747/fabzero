@@ -22,11 +22,20 @@ SF Edit 2
 7. Were ever the pins are not used assign a " no connect " symbol for the unused pins of the IC.  
 
 * Annotation or Naming  
+![](img/atona.png)
 8.Use the default values for the annotation schematic symbol tool and to edit the value on the component move the cursor over the component and press E.And to write a local name use ' Place Net Lable '.  
 
-9.![](img/kicad1.png)  
-10. Generate net list by using the icon " Generate Net List " with default values. 
- ![](img/netlist.jpg)  
+9.![](img/kicad1.png) 
+10 Run Electrical rules check as show below  and resolve the errors notfied after the elecrical check.
+
+ ![](img/netlist.jpg) 
+
+11. Generate net list by using the icon " Generate Net List " with default values.  
+12. Assign the PCB Foot print to the schematic symbols.  
+13. 
+
+
+ 
 
 
 
