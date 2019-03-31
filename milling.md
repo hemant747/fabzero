@@ -24,7 +24,10 @@ SF Edit 2
 * Annotation or Naming  
 8.Use the default values for the annotation schematic symbol tool and to edit the value on the component move the cursor over the component and press E.And to write a local name use ' Place Net Lable '.  
 
-9.![](img/kicad1.png)   
+9.![](img/kicad1.png)  
+10. Generate net list by using the icon " Generate Net List " with default values. 
+ ![](img/netlist.jpg)  
+
 
 
 
