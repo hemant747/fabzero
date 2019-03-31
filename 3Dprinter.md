@@ -9,6 +9,6 @@
 6. While rewinding the filament should not stressed beyound the plastic limit of the filament it is likely get cut before feeding inside the printer.  
 7. While loading the cartridge, the loose ends of the filament should not extrude from the opening of cartridge. After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the Cartridge menu on LCD screen available in the printer.  
 8. Each of the cartridge comes with with its electronic chip/pcb kit which has all its filaments details in it required for the printer during printing.  
-9. Already loaded filaments needed to be removed that first the nozzle to be heated to loosen the filament using the Extrude command from the control planel on the printer.
-
+9. Already loaded filaments needed to be removed that first the nozzle to be heated to loosen the filament using the Extrude command from the control planel on the printer.  
+![](img/sindp.jpg)
  
