@@ -90,7 +90,9 @@ Link to see the
 
 #  3D printer 3DWOX Sindoh 200
 
-![](img/3dcutterok.jpg) 
+![](img/3dcutterok.jpg)  
+Link to see the  
+[Hands-on details 3DWOX Sindoh 200 ](3dprinter.md) 
 
 
 
