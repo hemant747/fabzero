@@ -11,4 +11,4 @@
 8. Each of the cartridge comes with with its electronic chip/pcb kit which has all its filaments details in it required for the printer during printing.  
 9. Already loaded filaments needed to be removed that first the nozzle to be heated to loosen the filament using the Extrude command from the control planel on the printer.  
 ![](img/sindp.jpg)
- 
+![](img/3dcutterok.jpg) 
