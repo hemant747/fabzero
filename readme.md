@@ -92,7 +92,7 @@ Link to see the
 
 ![](img/3dcutterok.jpg)  
 Link to see the  
-[Hands-on details 3DWOX Sindoh 200 ](3Dprinter.md) 
+[Hands-on details 3DWOX Sindoh 200 ](3dprinter.md) 
 
 
 
