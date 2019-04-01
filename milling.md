@@ -39,7 +39,10 @@ SF Edit 2
 
 12. Assign the PCB Foot print to the schematic symbols.  
 ![](img/footprint.jpg)
+13. Select the component type then select the component in the schema and then select the foot print.  
+14. To add the footprint library fallow the below step Preference> Manage footprint library > add folder containing library.  
 
+15. ![](img/footlib.jpg)
 
 
 
