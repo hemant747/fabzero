@@ -38,7 +38,10 @@ SF Edit 2
 ![](img/netlist1.jpg)   
 
 12. Assign the PCB Foot print to the schematic symbols.  
-13. 
+![](img/footprint.jpg)
+
+
+
 
 
  
