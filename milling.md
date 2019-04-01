@@ -23,7 +23,8 @@ SF Edit 2
 
 * Annotation or Naming  
 
-![](img/atona.jpg)  
+
+![](img/atona1.jpg)  
 
 8.Use the default values for the annotation schematic symbol tool and to edit the value on the component move the cursor over the component and press E.And to write a local name use ' Place Net Lable '.  
 
