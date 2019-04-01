@@ -100,7 +100,9 @@ Link to see the
 
 
 
-![](img/Formlab.jpg) 
+![](img/Formlab.jpg)  
+ Link to see the  
+[Hands-on details Roland Mono Fab SRM 20 ](milling.md) 
  
 
 
