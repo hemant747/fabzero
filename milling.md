@@ -42,7 +42,10 @@ SF Edit 2
 13. Select the component type then select the component in the schema and then select the foot print.  
 14. To add the footprint library fallow the below step Preference> Manage footprint library > add folder containing library.  
 
-15. ![](img/footlib.jpg)
+![](img/footlib.jpg)  
+15. Error detected during this stage while assign the foot print can be resolve Goto preference> Manage footprint Library> In PCB library table change " Environmental variable" in local Library.
+* Now when all is ok then generate the PCB layout by pressing F-8 key. 
+ok
 
 
 
