@@ -33,7 +33,10 @@ SF Edit 2
 
  ![](img/netlist.jpg) 
 
+
 11. Generate net list by using the icon " Generate Net List " with default values.  
+![](img/netlist1.jpg)   
+
 12. Assign the PCB Foot print to the schematic symbols.  
 13. 
 
