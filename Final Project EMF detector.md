@@ -16,7 +16,12 @@
 ![](img/netlistpro.jpg) 
 ![](img/netlistpro1.jpg) 
  #  Foot Print 
- ![](img/footprint.jpg)
+ ![](img/footprint.jpg)  
+ # Update PCB to Schematic
+ ![](img/updatepcb.jpg)  
+ # Design Rule Checker 
+ 
+
 
 
    
