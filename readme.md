@@ -1,5 +1,6 @@
 # Hemant Rawade
-# About
+# About  
+
 I am working in STPI as Asst Director and had worked in Datacom Group and handle the installation of (IPLC) International Private Lease Circuits satelite links on C-Band and V- Sat, Fibermux like Mainstreet,Point to multipoint radio links, NOC installation and shifting of ( Network Operation Center) & Radio repeater etc. Have worked as Management Representative for ISO 9001:2000 acceradion and is certified interal auditor for ISO 9001:2000.
 
 ![](img/Profilepic.jpg)
