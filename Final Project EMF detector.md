@@ -18,8 +18,8 @@
 
    # Net list & Generate Net List  
 
-       ![](img/netlistpro.jpg) 
-       ![](img/netlistpro1.jpg) 
+ ![](img/netlistpro.jpg) 
+ ![](img/netlistpro1.jpg) 
 
    #  Foot Print 
    ![](img/footprint.jpg)
