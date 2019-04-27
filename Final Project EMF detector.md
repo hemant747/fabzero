@@ -9,20 +9,14 @@
    * The using the KICAD application the fallowing process were undertaken from starting from the circuit layout to final plotting of the circuit design to be ready to milling of the PCB as listed below along with pictures for ready reference :- 
 
    # EMF Detector circuit layout using Kicad   
-
-   ![](img/cktlayout.jpg)   
-
-   # Annonate Schematic.  
-
-   ![](img/annonate.jpg)   
-
-   # Net list & Generate Net List  
-
- ![](img/netlistpro.jpg) 
- ![](img/netlistpro1.jpg) 
-
-   #  Foot Print 
-   ![](img/footprint.jpg)
+![](img/cktlayout.jpg)   
+# Annonate Schematic.  
+![](img/annonate.jpg)   
+ # Net list & Generate Net List  
+![](img/netlistpro.jpg) 
+![](img/netlistpro1.jpg) 
+ #  Foot Print 
+ ![](img/footprint.jpg)
 
 
    
