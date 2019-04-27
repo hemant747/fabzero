@@ -6,7 +6,7 @@
    * Hence it becomes necessary to detect and measure the Electromagetic feild near by such electronic systems which are sensative to the emf during operation . So such electronic systems can be  isolated from the emf near by for their proper function. So here we have designed and produced the EMF detector using the ATTINY45 micro controller and tested it. 
    # The below steps were performed by us for the design and producing the EMF detector using the ATTINY45 micro controller as listed below.  
    * Design the  electronic circuit on the  paper sheet with the components specifcations on it from input to output and power supply and ground etc. 
-   * Design the circuit layout daigram using the application Kicad. 
+   * The using the KICAD the fallowing process were undertaken from starting from the circuit layout to final plotting of the circuit design to be ready to milling of the PCB as listed below :- 
    *
    
 
