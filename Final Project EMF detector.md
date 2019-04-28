@@ -20,6 +20,12 @@
  # Update PCB to Schematic
  ![](img/updatepcb.jpg)  
  # Design Rule Checker 
+  ![](img/drc.jpg)  
+# Plot the circuit 
+ ![](img/plot.jpg) 
+ # 
+
+ 
  
 
 
